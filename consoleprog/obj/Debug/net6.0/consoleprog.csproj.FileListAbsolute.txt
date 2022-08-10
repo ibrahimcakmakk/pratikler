@@ -1,0 +1,15 @@
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\bin\Debug\net6.0\consoleprog.exe
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\bin\Debug\net6.0\consoleprog.deps.json
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\bin\Debug\net6.0\consoleprog.runtimeconfig.json
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\bin\Debug\net6.0\consoleprog.dll
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\bin\Debug\net6.0\consoleprog.pdb
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.AssemblyInfo.cs
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.dll
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\refint\consoleprog.dll
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.pdb
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\consoleprog.genruntimeconfig.cache
+C:\Users\ibrahim\Desktop\pratikler\consoleprog\obj\Debug\net6.0\ref\consoleprog.dll
